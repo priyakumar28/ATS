@@ -1,0 +1,20 @@
+.bubbleBottom1{
+    position: absolute;
+    z-index: 1;
+    top: -105px;
+    left: -10px;
+    background: rgba(255, 255, 255, 0.176);
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+  }
+
+  .bubbleBottom2{ 
+    position: absolute;
+    top: 60px;
+    left: 40px;
+    background: rgba(255, 255, 255, 0.176);
+    width: 33px;
+    height:33px;
+    border-radius: 50%;
+  }

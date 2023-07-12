@@ -1,0 +1,19 @@
+.bubble4{
+    position: absolute;
+    z-index: 1;
+    top: -13px;
+    left: 280px;
+    background: rgba(255, 255, 255, 0.176);
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+  }
+  .bubble5{ 
+    position: absolute;
+    top: 20px;
+    left: 330px;
+    background: rgba(255, 255, 255, 0.176);
+    width: 30px;
+    height:30px;
+    border-radius: 50%;
+  }
